@@ -1,0 +1,15 @@
+export const RegisterLang = {
+  register: '登記',
+  name: '姓名',
+  enterName: '輸入您的全名',
+  mobileNumber: '手機號碼',
+  enterMobile: '輸入手機號碼',
+  password: '密碼',
+  enterPassword: '輸入密碼',
+  email: '電子郵件',
+  enterEmail: '輸入電子郵件',
+  licenseDueDate: '駕照到期日',
+  referralId: '推薦編號',
+  enterReferral: '輸入推薦人',
+  invalidMobile: '手機號碼無效！',
+};

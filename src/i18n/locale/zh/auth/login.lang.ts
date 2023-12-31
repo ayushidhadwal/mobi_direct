@@ -1,0 +1,17 @@
+export const LoginLang = {
+  login: '登錄',
+  hello: '您好，請填寫您的詳細信息以繼續',
+  mobile: '手機號碼',
+  enterMobile: '輸入手機號碼',
+  password: '密碼',
+  enterPassword: '輸入密碼',
+  forgotPassword: '忘記密碼 ？',
+  language: '語',
+  dontAccount: '沒有帳戶？',
+  haveAccount: '已有帳戶？',
+  register: '登記',
+  change: '改變語言',
+  english: 'English',
+  melayu: 'Melayu',
+  mandarin: '普通話',
+};

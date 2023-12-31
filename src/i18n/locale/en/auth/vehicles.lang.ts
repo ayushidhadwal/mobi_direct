@@ -1,0 +1,18 @@
+export const VehiclesLang = {
+  add: 'Add',
+  edit: 'Edit',
+  delete: 'Delete',
+  made: 'Made*',
+  toyota: 'TOYOTA',
+  model: 'Model*',
+  altis: 'ALITS',
+  year: 'Year*',
+  road: 'Road Tax Due Date*',
+  car: 'Car Plate Number*',
+  last: 'Last Service Mileage*',
+  average: 'Average Mileage/Day(Km)*',
+  engine: 'Engine Oil Type*',
+  finish: 'Finish',
+  no: 'No Vehicles!',
+  vehicle: 'Add Vehicle',
+};

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191280723897",
+    "project_id": "mobi-x-62d89",
+    "storage_bucket": "mobi-x-62d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191280723897:android:9665786f987d2ace66e868",
+        "android_client_info": {
+          "package_name": "com.mobi.x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo66nhLr2XMTrVIOkFfxv8Y0qb2Viw4bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

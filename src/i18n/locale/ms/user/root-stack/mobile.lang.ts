@@ -1,0 +1,23 @@
+export const MobileLang = {
+  mobile: 'Nombor Mudah Alih*',
+  enter: 'Masuk',
+  update: 'Kemas kini',
+  passwordUpdated: 'Kata Sandi Berhasil Diperbarui!',
+  oldPassword: 'password lama',
+  enterOld: 'Masukkan Kata Sandi Lama',
+  newPassword: 'kata sandi baru',
+  enterNew: 'Masukan kata sandi baru',
+  confirmPassword: 'setujui password',
+  confirmNewPassword: 'Konfirmasi password baru',
+  passwordReq: 'katakunci dibutuhkan',
+  newPasswordReq: 'Kata sandi baru diperlukan',
+  passwordMatch: 'sandi harus sesuai',
+  password: 'Kata laluan',
+  enterPassword: 'Masukkan kata laluan',
+  delete: 'Padam',
+  alertTitle: 'Tolong sahkan',
+  alertMsg:
+    'Adakah anda pasti mahu memadamkan akaun anda? Akaun yang dipadamkan tidak boleh dipulihkan.',
+  alertConfirmBtn: 'Ya, Padamkan akaun saya',
+  alertCancelBtn: 'Batal',
+};

@@ -1,0 +1,23 @@
+export const MobileLang = {
+  mobile: 'Mobile Number*',
+  enter: 'Enter',
+  update: 'Update',
+  passwordUpdated: 'Password Updated Successfully!',
+  oldPassword: 'Old Password',
+  enterOld: 'Enter Old Password',
+  newPassword: 'New Password',
+  enterNew: 'Enter New Password',
+  confirmPassword: 'Confirm Password',
+  confirmNewPassword: 'Confirm New Password',
+  passwordReq: 'Password is required',
+  newPasswordReq: 'New Password is required',
+  passwordMatch: 'Passwords must match',
+  password: 'Password',
+  enterPassword: 'Enter Password',
+  delete: 'Delete',
+  alertTitle: 'Please Confirm',
+  alertMsg:
+    'Are you sure you want to delete your account? Deleted account cannot be recovered.',
+  alertConfirmBtn: 'Yes, Delete my account',
+  alertCancelBtn: 'Cancel',
+};

@@ -1,0 +1,17 @@
+export const LoginLang = {
+  login: 'Gabung',
+  hello: 'Halo, Silakan isi detail Anda untuk melanjutkan',
+  mobile: 'Nomor handphone',
+  enterMobile: 'Masukkan Nomor Ponsel',
+  password: 'Kata sandi',
+  enterPassword: 'Masukkan kata kunci',
+  forgotPassword: 'Tidak ingat kata sandi ?',
+  language: 'Bahasa',
+  dontAccount: 'Belum punya akun?',
+  haveAccount: 'Sudah memiliki akun?',
+  register: 'Daftar',
+  change: 'Ganti Bahasa',
+  english: 'English',
+  melayu: 'Melayu',
+  mandarin: 'Mandarin',
+};
